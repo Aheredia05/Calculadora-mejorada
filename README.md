@@ -24,5 +24,6 @@ Lo primero que tenemos que hacer es registrarnos en API Spotify y crear una cuen
 
 ![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/1.png)
 
-##Luego de crear nuestro proyecto obtenemos Clave id secret
+Luego de crear nuestro proyecto obtenemos Clave id secret
+
 ![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/a.png)
