@@ -36,7 +36,7 @@ Aplicamos una restricción si no está autenticado
 
 ![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/3.png)
 
-# Logeo
+# Registro
 
 Procedemos a registrar Logeo de la siguiente forma
 
@@ -61,6 +61,9 @@ Comprobamos el formulario de registro
 Nos envía un correo de autentificación antes de validar el acceso 
 
 ![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/9.png)
+
+Ingresamos la contraseña para cunminar nuestro registro
+
 ![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/10.png)
 
 Lugo de verificar nuestra contraseña procedemos a iniciar sesión 
@@ -90,4 +93,26 @@ Nos envía a una página donde ingresamos nuestra nueva contraseña y la ingresa
 
 ![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/16.png)
 
+# Generar token
 
+![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/17.png)
+
+
+![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/18.png)
+
+
+![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/199.png)
+
+
+![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/20.png)
+
+
+![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/21.png)
+
+
+![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/22.png)
+
+
+![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/23.png)
+
+![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/24.png)
