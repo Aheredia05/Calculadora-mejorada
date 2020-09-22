@@ -98,10 +98,10 @@ Nos envía a una página donde ingresamos nuestra nueva contraseña y la ingresa
 ![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/17.png)
 
 
-![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/18.png)
-
-
 ![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/199.png)
+
+
+![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/18.png)
 
 
 ![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/20.png)
@@ -116,3 +116,28 @@ Nos envía a una página donde ingresamos nuestra nueva contraseña y la ingresa
 ![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/23.png)
 
 ![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/24.png)
+
+# Después del token logeo
+
+![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/25.png)
+
+# Generar apk
+
+![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/26.png)
+
+
+![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/27.png)
+
+# Cambiar nombre
+
+![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/28.png)
+
+error al generar apk
+
+![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/29.png)
+
+![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/30.png)
+
+
+
+![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/22.png)
