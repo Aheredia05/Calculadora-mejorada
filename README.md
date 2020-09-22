@@ -36,6 +36,8 @@ Aplicamos una restricción si no está autenticado
 
 ![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/3.png)
 
+#Logeo
+
 Procedemos a registrar Logeo de la siguiente forma
 
 ![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/4.png)
