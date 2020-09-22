@@ -27,3 +27,36 @@ Lo primero que tenemos que hacer es registrarnos en API Spotify y crear una cuen
 Luego de crear nuestro proyecto obtenemos Clave id secret
 
 ![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/a.png)
+
+Realizamos pruebas para la realización de token con la ayuda de POSTMAN
+
+![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/2.png)
+
+Aplicamos una restricción si no está autenticado
+
+![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/3.png)
+
+Procedemos a registrar Logeo de la siguiente forma
+
+![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/4.png)
+
+Verifica el correo electrónico
+
+![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/5.png)
+
+Comprobamos el login para iniciar sesión 
+
+![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/6.png)
+
+Nos da la bienvenida 
+
+![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/7.png)
+
+Comprobamos el formulario de registro
+
+![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/8.png)
+
+Nos envía un correo de autentificación antes de validar el acceso 
+
+![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/9.png)
+
