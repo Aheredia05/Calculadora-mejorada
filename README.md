@@ -136,8 +136,7 @@ error al generar apk
 
 ![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/29.png)
 
+login
+
 ![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/30.png)
 
-
-
-![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/22.png)
