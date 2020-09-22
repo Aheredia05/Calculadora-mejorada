@@ -36,7 +36,7 @@ Aplicamos una restricción si no está autenticado
 
 ![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/3.png)
 
-#Logeo
+# Logeo
 
 Procedemos a registrar Logeo de la siguiente forma
 
@@ -65,15 +65,23 @@ Nos envía un correo de autentificación antes de validar el acceso
 
 Lugo de verificar nuestra contraseña procedemos a iniciar sesión 
 
-![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/11.png)
-![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/12.png)
+![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/11.png) ![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/12.png)
 
 # Recuperar contraseña
 
 En el caso que deseemos recuperar la contraseña nuestra contraseña ingresamos damos clic en recuperar contraseña e ingresamos nuestro correo electrónico 
 ![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/13.png)
-![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/10.png)
-![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/9.png)
-![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/10.png)
+
+
+Al enviar nos aparece el mensaje para confirmar recuperación de contraseña
+
+![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/14.png)
+
+Nos llega una verificación a nuestro correo electrónico en la cual debemos dar aceptar
+
+![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/15.png)
+Nos envía a una página donde ingresamos nuestra nueva contraseña y la ingresamos
+
+![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/16.png)
 
 
