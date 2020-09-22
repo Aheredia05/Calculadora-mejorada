@@ -59,4 +59,19 @@ Comprobamos el formulario de registro
 Nos envía un correo de autentificación antes de validar el acceso 
 
 ![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/9.png)
+![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/10.png)
+
+Lugo de verificar nuestra contraseña procedemos a iniciar sesión 
+
+![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/11.png)
+![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/12.png)
+
+# Recuperar contraseña
+
+En el caso que deseemos recuperar la contraseña nuestra contraseña ingresamos damos clic en recuperar contraseña e ingresamos nuestro correo electrónico 
+![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/13.png)
+![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/10.png)
+![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/9.png)
+![Calculadora](https://github.com/Aheredia05/Calculadora-mejorada/blob/master/topicos/10.png)
+
 
